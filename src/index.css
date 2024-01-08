@@ -9,8 +9,8 @@
   --grey-color: #d4d3d3;
   --delete-color: #df372b;
   --divider-color: rgba(0, 0, 0, 0.1);
-  --dark-bg: #222;
-  --soft-dark: #272724;
+  --dark-bg: #373418;
+  --soft-dark: #686844;
   /* Global */
   --letter-spacing: 0.08rem;
   --transition: all 0.3s linear;
@@ -20,7 +20,7 @@
   --card-radius: 0rem 0rem 0.25rem 0.25rem;
   --btn-radius: 16px;
   --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-  --dark-shadow: 4px 5px 15px rgba(5, 6, 6, 0.4);
+  --dark-shadow: 4px 5px 15px rgba(80, 159, 159, 0.4);
 }
 
 *,
